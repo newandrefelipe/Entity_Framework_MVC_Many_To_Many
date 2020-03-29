@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAO\CourseDAO.cs" />
+    <Compile Include="DAO\StudentDAO.cs" />
     <Compile Include="Migrations\202003291935112_Initial_Migration.cs" />
     <Compile Include="Migrations\202003291935112_Initial_Migration.designer.cs">
       <DependentUpon>202003291935112_Initial_Migration.cs</DependentUpon>
